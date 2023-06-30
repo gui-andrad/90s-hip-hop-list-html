@@ -1,0 +1,37 @@
+body{
+	background: grey;
+}
+
+#title, .subtitle, .post_title{
+	color: ;
+}
+
+.post_title{
+	font-size: 16px;
+	font-style: italic;
+}
+
+.post{
+	background: #FFF;
+	padding: 10px;
+	border: 3px solid #000;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.contacts{
+	background: #FFF;
+	padding: 10px 5px;
+	border: 3px solid #000;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.list{
+	color: black;
+}
+
+.contato{
+	color: black;
+	padding: 5px 3px 3px 15px;
+}
